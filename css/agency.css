@@ -714,5 +714,5 @@ ul {
   list-style-position: inside;
 }
 html {
-  overflow: auto;
+  overflow: scroll;
 }
